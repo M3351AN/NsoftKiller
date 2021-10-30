@@ -9,7 +9,7 @@
 - 本项目只为学习软件原理而生,如有使用此项目进行任何影响正常教学秩序的行为与本人无关.
 
 ### 截图（2.0.1.1）
-![SCREENSHOT](https://https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT.JPG)
+![SCREENSHOT](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT.JPG)
 ### 更新日志
 - 2.0.1.1-添加了启动界面，增加了实验性反控的初步功能
 - 2.0.0.1-此版本所有功能均为试验性功能，不保证可用性！
