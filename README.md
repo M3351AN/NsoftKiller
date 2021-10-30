@@ -7,10 +7,15 @@
 - 早在2018年,本人便在南宁市东盟中学就读,期间使用.bat文件执行命令来试图关闭学生端程序,可称为本项目的前身.
 - 2021年由于种种原因,教师关闭了使用任务管理器/注册表管理器与命令提示符功能,原方法失效.
 - 本项目只为学习软件原理而生,如有使用此项目进行任何影响正常教学秩序的行为与本人无关.
+
+### 截图（2.0.1.1）
+![SCREENSHOT](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/SCREENSHOT.JPG)
 ### 更新日志
+- 2.0.1.1-添加了启动界面，增加了实验性反控的初步功能
 - 2.0.0.1-此版本所有功能均为试验性功能，不保证可用性！
 ### 开发环境
-- win10 专业版 64位 20H4
+- win10 专业版 64位 20H2 19042.928 Windows Feature Experience Pack 120.2212.551.0
+- Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz   2.20 GHz
 - 易语言5.8
 - Microsoft Visual Basic/C++ Runtime
 - Microsoft C Runtime Library (2003: 7.10.6119.0)
