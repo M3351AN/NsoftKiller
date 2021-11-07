@@ -18,7 +18,7 @@
 ### 开发环境
 - win10 专业版 64位 20H2 19042.928 Windows Feature Experience Pack 120.2212.551.0
 - Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz   2.20 GHz
-- 易语言5.8
+- 易语言5.9
 - Microsoft Visual Basic/C++ Runtime
 - Microsoft C Runtime Library (2003: 7.10.6119.0)
 - Microsoft Visual C++ Redistributables (x86/x64)
