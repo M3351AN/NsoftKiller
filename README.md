@@ -9,10 +9,12 @@
 - 本项目只为学习软件原理而生,如有使用此项目进行任何影响正常教学秩序的行为与本人无关.
 
 ### 截图
-- （2.0.1.1）
-![SCREENSHOT](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT.JPG)
+- （2.0.4.1）
+![SCREENSHOT2041](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT2041.jpg)
 - （2.0.3.1）
 ![SCREENSHOT2031](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT2031.jpg)
+- （2.0.1.1）
+![SCREENSHOT](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT.JPG)
 ### 更新日志
 - 2.0.4.1-不使用皮肤模块,加上了吹雪
 - 2.0.3.1（未拉取）-2.0.3.2-更新界面布局与风格，增强了杀进程功能，杀凌波进程功能回归，增加开发人员工具
