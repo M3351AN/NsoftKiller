@@ -10,7 +10,7 @@
 
 ### 截图
 - （3.0.0.1）
-![SCREENSHOT2041](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT3001.jpg)
+![SCREENSHOT2041](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT3001.png)
 - （2.0.4.1）
 ![SCREENSHOT2041](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT2041.jpg)
 - （2.0.3.1）
