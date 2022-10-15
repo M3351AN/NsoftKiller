@@ -1,4 +1,4 @@
-# 蚌埠极域整活端改二
+# 蚌埠极域整活端改三
 
 ![LOGO](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/%E6%9E%81%E5%9F%9F%E9%BB%84%E8%B1%86.png)
 
@@ -9,6 +9,9 @@
 - 本项目只为学习软件原理而生,如有使用此项目进行任何影响正常教学秩序的行为与本人无关.
 
 ### 截图
+- （3.0.0.1）
+![SCREENSHOT3001]
+(https://user-images.githubusercontent.com/65479796/195980064-14e83061-9f13-4abf-9fcd-51fe97285a68.png)
 - （2.0.4.1）
 ![SCREENSHOT2041](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT2041.jpg)
 - （2.0.3.1）
@@ -16,6 +19,7 @@
 - （2.0.1.1）
 ![SCREENSHOT](https://raw.githubusercontent.com/M3351AN/NsoftKiller/main/%E5%9B%BE%E7%89%87%E8%B5%84%E6%BA%90%E4%B8%8E%E5%9B%BE%E6%A0%87/SCREENSHOT.JPG)
 ### 更新日志
+- 3.0.0.1-针对使用过程中所遇到的种种问题，在改二基础上开发改三
 - 2.0.4.2-优化了我的小吹雪
 - 2.0.4.1-不使用皮肤模块,加上了吹雪
 - 2.0.3.1（未拉取）-2.0.3.2-更新界面布局与风格，增强了杀进程功能，杀凌波进程功能回归，增加开发人员工具
@@ -29,8 +33,7 @@
 - (其余待补充)
 
 ### 开发环境
-- win10 专业版 64位 20H2 19042.928 Windows Feature Experience Pack 120.2212.551.0
-- Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz   2.20 GHz
+- Windows SERVER 2019 Standard
 - 易语言5.9
 - Microsoft Visual Basic/C++ Runtime
 - Microsoft C Runtime Library (2003: 7.10.6119.0)
