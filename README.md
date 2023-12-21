@@ -32,14 +32,10 @@
 - 2.0.0.1-此版本所有功能均为试验性功能，不保证可用性！
 ### 测试环境
 - win7 旗舰版
-- (其余待补充)
+- (学生机环境变化中，待补充)
 
 ### 开发环境
-- Windows SERVER 2019 Standard
 - 易语言5.9
-- Microsoft Visual Basic/C++ Runtime
-- Microsoft C Runtime Library (2003: 7.10.6119.0)
-- Microsoft Visual C++ Redistributables (x86/x64)
 - Microsoft Visual C++ 2005-2019 Redistributable - 14.28.29213
 - 南软极域V10.0学生端（直接拷贝）
 ### 参与项目
